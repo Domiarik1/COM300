@@ -12,19 +12,19 @@
 #   print("You are old enough to travel.")
 # else:
 #   print("You are old enough to travel.")
-
-def calculate_discounted_price(price, discount_percent):
-    discounted_price = price * (1 - discount_percent / 100)
-    return discounted_price
-
-def grade_converter(percentage):
-    if percentage >= 70:
-      return "First"
-    elif percentage >= 60:
-      return "Upper-second (2:1)"
-    elif percentage >= 50:
-      return "Lower-second (2:2)"
-    elif percentage >= 40:
-      return "Third"
-    else:
-      return "Refer"
+#
+# def calculate_discounted_price(price, discount_percent):
+#     discounted_price = price * (1 - discount_percent / 100)
+#     return discounted_price
+#
+# def grade_converter(percentage):
+#     if percentage >= 70:
+#       return "First"
+#     elif percentage >= 60:
+#       return "Upper-second (2:1)"
+#     elif percentage >= 50:
+#       return "Lower-second (2:2)"
+#     elif percentage >= 40:
+#       return "Third"
+#     else:
+#       return "Refer"
