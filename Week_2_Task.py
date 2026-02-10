@@ -27,4 +27,5 @@
 #     elif percentage >= 40:
 #       return "Third"
 #     else:
-#       return "Refer"
+#       return "refer"
+
