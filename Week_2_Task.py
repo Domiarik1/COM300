@@ -25,7 +25,7 @@
 #     elif percentage >= 50:
 #       return "Lower-second (2:2)"
 #     elif percentage >= 40:
-#       return "Third"
+      # return "Third"
 #     else:
 #       return "refer"
 
